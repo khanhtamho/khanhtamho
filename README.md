@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tam 👋
 
-<!--
-**khanhtamho/khanhtamho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring the intersection of HR, Marketing, and Data Analysis, with a focus on data quality, meaningful insights, and informed decision-making.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Human Resources and People Management
+- Marketing and Consumer Behavior
+- Data Analysis and Data Quality Management
+
+## Currently Learning
+
+- Analytical thinking and problem-solving
+- Data-driven decision-making
+- Quality-oriented thinking and process improvement
+
+Thanks for visiting my profile!
